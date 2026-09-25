@@ -1,7 +1,5 @@
 ### Hi, I'm Ananya 👋
 
-Industrial & Production Engineering student at BUET, working on machine learning for optimization and decision-making in supply chain and industrial systems.
-
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ananyahalder083@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyahalder01)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Co4ypu8AAAAJ&hl=en)
@@ -9,20 +7,12 @@ Industrial & Production Engineering student at BUET, working on machine learning
 
 ---
 
-### 🎓 About me
+### What I do
 
-- 🏭 B.Sc. in Industrial & Production Engineering, **BUET** (2022–2026), CGPA 3.40/4.00
-- 🔬 Research interest: coupling predictive ML models (gradient-boosted trees, forecasting) with downstream optimization (genetic algorithms, heuristic search) so learned signals directly guide decisions
-- 🧵 Thesis: *Predictive Waste Classification and Reverse Logistics Optimization Using Machine Learning in a Circular Supply Chain* — advised by Dr. Ferdous Sarwar
-- 🧑‍🏫 Research Assistant exploring LLM + ML methods, Dept. of IPE, BUET
-- 🌱 Currently in Nestlé Bangladesh's NESRISER mentorship program
-
----
-
-### 📄 Publications
-
-- ML & optimization paper — 7th Asia Pacific IEOM Conference, Bangkok, Thailand. [DOI](https://doi.org/10.46254/AP07.20260218)
-- *"Smart Slotting: A Hybrid Machine Learning and Optimization Approach to Reduce Picker Travel and Labor Time"* — 9th European IEOM Conference, Barcelona, Spain
+- Machine Learning & Optimization
+- Supply Chain Analytics
+- Demand Forecasting
+- Industrial & Process Engineering
 
 ---
 
@@ -45,15 +35,6 @@ Industrial & Production Engineering student at BUET, working on machine learning
 
 ---
 
-### 📌 Featured Projects
-
-- **[thread-dyeing-circular-supply-chain](https://github.com/halderananyo/thread-dyeing-circular-supply-chain)** — ML-based waste classification and reverse logistics optimization for a thread dyeing company's circular supply chain (undergraduate thesis work)
-- **[smart-slotting](https://github.com/halderananyo/smart-slotting)** — Hybrid machine learning and optimization approach to reduce picker travel and labor time in warehouse slotting
-- **[ananyaportfolio](https://github.com/halderananyo/ananyaportfolio)** — Personal portfolio website
-- **[audioOA](https://github.com/halderananyo/audioOA)** — Audiobook site
-
----
-
 ### 📈 GitHub Stats
 
 ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=halderananyo&show_icons=true&theme=default&hide_border=true)
@@ -62,15 +43,3 @@ Industrial & Production Engineering student at BUET, working on machine learning
 ### 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=halderananyo&theme=minimal&hide_border=true)
-
----
-
-### 🏆 Honors & Awards
-
-- Dean's Scholarship, BUET (Term 4-1, 4-2)
-- 60% Scholarship, ISCEA Global Supply Chain Case Competition (2024)
-- Semi-Finalist, Ideation Challenge 5.0, Orange Corner Bangladesh
-
----
-
-🗣️ Bengali (native) · English (IELTS 7.0)
